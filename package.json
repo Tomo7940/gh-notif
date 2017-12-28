@@ -1,0 +1,25 @@
+{
+  "name": "gh-notif",
+  "version": "1.0.0",
+  "description": "google home notifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomo7940/gh-notif.git"
+  },
+  "author": "chikushimat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomo7940/gh-notif/issues"
+  },
+  "homepage": "https://github.com/Tomo7940/gh-notif#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "google-home-notifier": "^1.2.0",
+    "ngrok": "^2.2.24"
+  }
+}
